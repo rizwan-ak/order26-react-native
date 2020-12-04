@@ -1,0 +1,12 @@
+{
+  "name": "Order26",
+  "displayName": "Order26",
+  "expo": {
+    "name": "Order26",
+    "slug": "Order26",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
